@@ -1,5 +1,5 @@
-# RegAnalyzerApp_v2.1
-RegAnalyzerApp version 2.1
+# RegAnalyzerApp_v2.2
+RegAnalyzerApp version 2.2
 
 增加功能：
 1.增加二进制辅助显示；
